@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'The Road of Fullstack to Python'
-copyright = '2018, robby'
-author = 'robby'
+copyright = '2018, Robby'
+author = 'Robby'
 
 # The short X.Y version
 version = ''
