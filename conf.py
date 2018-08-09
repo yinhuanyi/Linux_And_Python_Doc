@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'The Road for Fullstack(Linux + Python)'
+project = 'The Road of Fullstack to Python'
 copyright = '2018, robby'
 author = 'robby'
 
