@@ -11,6 +11,7 @@ Python And Linux 文档
    :caption: Contents:
 
    example
+   chapter01/install-01
 
 Indices and tables
 ======================

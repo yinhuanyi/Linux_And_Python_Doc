@@ -1,10 +1,5 @@
-这是标题
+This is a Title
 ===============
-
-
-
-
-
 That has a paragraph about a main subject and is set when the '='
 is at least the same length of the title itself.
  
