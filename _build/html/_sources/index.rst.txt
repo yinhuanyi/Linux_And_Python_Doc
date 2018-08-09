@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to The Road for Fullstack's documentation!
+Welcome to Python And Linux documentation!
 ==================================================
 
 .. toctree::
@@ -11,9 +11,8 @@ Welcome to The Road for Fullstack's documentation!
    :caption: Contents:
 
 
-
-Indices and tables
-==================
+Indices and tables and
+======================
 
 * :ref:`genindex`
 * :ref:`modindex`
