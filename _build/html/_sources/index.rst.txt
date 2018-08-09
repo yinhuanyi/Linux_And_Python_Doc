@@ -8,7 +8,7 @@ Python And Linux 文档
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :glob:
 
    chapter01/index
    chapter02/index

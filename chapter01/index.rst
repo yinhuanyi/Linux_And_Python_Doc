@@ -1,6 +1,6 @@
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered: 2
 
    section01/install_python_env
    section01/basic
