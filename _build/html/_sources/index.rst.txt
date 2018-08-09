@@ -6,8 +6,9 @@
 Python 全栈开发文档
 ==================================================
 
-这一部分主要介绍数据科学的入门内容;\
-包含数据科学的基础工具，如：Jupyter、Linux，以及 Python 基本的数据科学包 Numpy，画图包 Matplotlib;
+此开发文档，涵盖了Python开发的所有内容，包括Python的基本数据类型、Python运算、Python控制流、Python模块导入、Python内置模块、Python函数、Python设计思想、Python面向对象、Python高级模块部分、\
+Python Socket 网络编程、前端开发（HTML、CSS、JS）、Juery、Bootstrap、Django框架、Redis缓存、MySQL关系数据库、MongoDB NoSQL数据库、基于ansible的DMDB二次开发、通过Python对日志清洗实现日志分析、\
+基于Django框架在阿里云服务器上线教学管理系统、基于Django Rest Framework在阿里云服务器上线电商交易平台，基于docker + gitlabCI + K8S 实现Python项目的自动化CI/CD
 
 
 
@@ -21,9 +22,3 @@ Python 全栈开发文档
    chapter03/index
    chapter04/index
 
-Indices and tables
-======================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
