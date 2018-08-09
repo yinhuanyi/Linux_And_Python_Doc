@@ -10,8 +10,10 @@ Python And Linux 文档
    :maxdepth: 2
    :caption: Contents:
 
-   example
-   chapter01/install-01
+   chapter01/index
+   chapter02/index
+   chapter03/index
+   chapter04/index
 
 Indices and tables
 ======================
