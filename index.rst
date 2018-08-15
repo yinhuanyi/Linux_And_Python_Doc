@@ -17,7 +17,7 @@ Django框架、Redis缓存、MySQL关系数据库、MongoDB NoSQL数据库
 基于Django框架在阿里云服务器上线教学管理系统、基于前端Vue.js和后台Django 以及 Django Rest Framework 两大框架在阿里云服务器上线电商交易平台，实现微信和支付宝支付、
 基于docker + gitlab CI（jenkins CI） + K8S 实现Python项目的自动化CI/CD
 
-
+.. image:: _static/index_01.png
 
 
 .. toctree::
