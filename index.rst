@@ -9,7 +9,7 @@ Python 全栈开发文档
 此开发文档，涵盖了Python开发的所有内容，包括:
 Python的基本数据类型、Python运算、Python控制流、Python模块导入、Python内置模块、Python函数、
 Python设计思想、Python面向对象、Python高级模块部分
-Python Socket 网络编程、前端开发（HTML、CSS、JS）、Juery框架、Bootstrap UI框架
+Python Socket 网络编程、前端开发（HTML、CSS、JS）、Jquery框架、Bootstrap UI框架
 Django框架、Redis缓存、MySQL关系数据库、MongoDB NoSQL数据库
 
 同时也包含实战开发部分：
