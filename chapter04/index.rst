@@ -1,7 +1,6 @@
 第四章
 ==========
-这一部分主要介绍数据科学的入门内容;\
-包含数据科学的基础工具，如：Jupyter、Linux，以及 Python 基本的数据科学包 Numpy，画图包 Matplotlib;
+这一章介绍Python参数和Python函数
 
 
 

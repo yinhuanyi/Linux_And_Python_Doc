@@ -8,7 +8,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-  <title>1. (2018年7月1日 8:30 PM — 8:30 AM) 运维早班日志 &mdash; The Road of Fullstack to Python 1.0.0 documentation</title>
+  <title>1. Python 函数 &mdash; The Road of Fullstack to Python 1.0.0 documentation</title>
   
 
   
@@ -28,8 +28,8 @@
   <link rel="stylesheet" href="../../_static/pygments.css" type="text/css" />
     <link rel="index" title="Index" href="../../genindex.html" />
     <link rel="search" title="Search" href="../../search.html" />
-    <link rel="next" title="2. (2018年7月1日 8:30 PM — 8:30 AM) 运维早班日志" href="basic.html" />
-    <link rel="prev" title="第一章" href="../index.html" /> 
+    <link rel="next" title="2. Python 参数的封装与解构" href="basic.html" />
+    <link rel="prev" title="第四章" href="../index.html" /> 
 
   
   <script src="../../_static/js/modernizr.min.js"></script>
@@ -80,11 +80,11 @@
             
               <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="../../chapter01/index.html">第一章</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../chapter02/index.html">第一章</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../chapter03/index.html">第一章</a></li>
-<li class="toctree-l1 current"><a class="reference internal" href="../index.html">第一章</a><ul class="current">
-<li class="toctree-l2 current"><a class="current reference internal" href="#">1. (2018年7月1日 8:30 PM — 8:30 AM) 运维早班日志</a></li>
-<li class="toctree-l2"><a class="reference internal" href="basic.html">2. (2018年7月1日 8:30 PM — 8:30 AM) 运维早班日志</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../chapter02/index.html">第二章</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../chapter03/index.html">第三章</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../index.html">第四章</a><ul class="current">
+<li class="toctree-l2 current"><a class="current reference internal" href="#">1. Python 函数</a></li>
+<li class="toctree-l2"><a class="reference internal" href="basic.html">2. Python 参数的封装与解构</a></li>
 </ul>
 </li>
 </ul>
@@ -132,9 +132,9 @@
     
       <li><a href="../../index.html">Docs</a> &raquo;</li>
         
-          <li><a href="../index.html">第一章</a> &raquo;</li>
+          <li><a href="../index.html">第四章</a> &raquo;</li>
         
-      <li>1. (2018年7月1日 8:30 PM — 8:30 AM) 运维早班日志</li>
+      <li>1. Python 函数</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -153,65 +153,8 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="pm-8-30-am">
-<h1>1. (2018年7月1日 8:30 PM — 8:30 AM) 运维早班日志<a class="headerlink" href="#pm-8-30-am" title="Permalink to this headline">¶</a></h1>
-<p>值班员：Kevin，Eson</p>
-<blockquote>
-<div>（一）正常系统巡检</div></blockquote>
-<ul class="simple">
-<li>BRT server</li>
-</ul>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>BRT服务正常。
-业务指标正常。
-主机性能基本指标正常。
-relay主机未受到攻击。
-</pre></div>
-</div>
-<ul class="simple">
-<li>MRT server</li>
-</ul>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>1：主机性能基本指标正常。
-2：业务指标正常
-</pre></div>
-</div>
-<ul class="simple">
-<li>TVE server</li>
-</ul>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>1：TVE server 用户数和流量正常。
-2：TVE api server 系统基本指标正常。
-</pre></div>
-</div>
-<blockquote>
-<div>（二）工作事件</div></blockquote>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>1：和zac确认清楚了之前需要开通的几个mac的原因，是由于zac自己的疏忽导致出货记录表的mac记错了，
-漏开了。确认了zac最后更正的10个是BBTV的，那一箱剩下的20个是BHQBZ，销售渠道并没有错，这个事件
-已经解决。
-2：机房的neo11带宽降低，但其对应的频道播放正常，并未出现花屏、卡顿现象。
-</pre></div>
-</div>
-<div class="figure" id="id1">
-<img alt="http://18.191.195.99/images/Eason/network.png:alt:network" src="http://18.191.195.99/images/Eason/network.png:alt:network" />
-<p class="caption"><span class="caption-text">network</span></p>
-</div>
-<blockquote>
-<div>（三）跟进解决的事件</div></blockquote>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>1：e57的带宽和收包很不稳定，但是播放正常，需要开发同时帮忙查一下原因。
-2：SPACE这个台播放的是英语，需要调成葡语，keeny不在，可能后续需要机房的人员调一下。
-</pre></div>
-</div>
-<blockquote>
-<div>（四）跟进解决的事件</div></blockquote>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>1：e57的带宽和收包很不稳定，但是播放正常，需要开发同时帮忙查一下原因。
-2：SPACE这个台播放的是英语，需要调成葡语，keeny不在，可能后续需要机房的人员调一下。
-</pre></div>
-</div>
-<blockquote>
-<div>（五）livetv在线人数和带宽</div></blockquote>
-<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>livetv在线人数：23.41k 带宽大约为：38g
-MFC在线人数：19.45k，带宽大约为：7.2g
-TVE在线人数：130， 带宽为：171m
-</pre></div>
-</div>
+  <div class="section" id="python">
+<h1>1. Python 函数<a class="headerlink" href="#python" title="Permalink to this headline">¶</a></h1>
 </div>
 
 
@@ -222,10 +165,10 @@ TVE在线人数：130， 带宽为：171m
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="basic.html" class="btn btn-neutral float-right" title="2. (2018年7月1日 8:30 PM — 8:30 AM) 运维早班日志" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
+        <a href="basic.html" class="btn btn-neutral float-right" title="2. Python 参数的封装与解构" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right"></span></a>
       
       
-        <a href="../index.html" class="btn btn-neutral" title="第一章" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
+        <a href="../index.html" class="btn btn-neutral" title="第四章" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left"></span> Previous</a>
       
     </div>
   
